@@ -1,0 +1,7 @@
+[
+	{ "op": "add", "path": "/bux", "value": null },
+	{ "op": "remove", "path": "/worthless" },
+	{ "op": "replace", "path": "/buz", "value": "was" },
+	{ "op": "copy", "from": "/important", "path": "/bux" },
+	{ "op": "move", "from": "/bux", "path": "/boo" }
+]
